@@ -1,4 +1,4 @@
-# microscope_upcycling_supplement
+# "Microscope Upcycling" Supplemental Material
 
 This repositoty contains the supplemental material for the paper "Microscope Upcycling: Transforming legacy microscopes into automated cloud-integrated imaging systems" by Yohei Rosen, Drew Ehrlich, David F. Parks, Ryan Fenimore, David Haussler, Sri Kurniawan, and Mircea Teodorescu
 
